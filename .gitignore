@@ -17,8 +17,9 @@ eggs/
 lib/
 lib64/
 data/
-Pre-Trained_Bert/data
 BERT_pretrained_output/
+Pre-Trained_Bert/
+LSTM_output/
 parts/
 sdist/
 var/
