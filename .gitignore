@@ -21,6 +21,8 @@ BERT_pretrained_output/
 Pre-Trained_Bert/
 LSTM_output/
 parts/
+Distilling/data
+Distilling/LSTM_output
 sdist/
 var/
 wheels/
