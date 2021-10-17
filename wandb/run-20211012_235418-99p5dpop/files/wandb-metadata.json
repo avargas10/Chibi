@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.19043-SP0",
+    "python": "3.8.11",
+    "heartbeatAt": "2021-10-13T05:54:19.709317",
+    "startedAt": "2021-10-13T05:54:18.246338",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\VargasKiller\\AppData\\Roaming\\jupyter\\runtime\\kernel-c568d815-9e85-47d1-a3d6-bae59d1924a0.json"
+    ],
+    "state": "running",
+    "program": "Documents/Proyects/Chibi/BERT_pretrained.ipynb",
+    "root": "C:/Users/VargasKiller/Documents/Proyects/Chibi",
+    "git": {
+        "remote": "https://github.com/avargas10/Chibi.git",
+        "commit": "3e6590ac17712dd341d1a7ff287008b194fb3813"
+    },
+    "email": "afelipe.vargas.r@gmail.com",
+    "host": "DESKTOP-AQMVMVA",
+    "username": "VargasKiller",
+    "executable": "C:\\Users\\VargasKiller\\anaconda3\\envs\\ImageColorizationEnv\\python.exe"
+}
